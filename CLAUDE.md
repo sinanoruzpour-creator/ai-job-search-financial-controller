@@ -32,7 +32,7 @@ to grow into broader management responsibility.
 - Norouzpour, M., Nikulin, E., and Downing, J. (2023), "IFRS 9, earnings
   management and capital management by European banks," *Journal of Financial
   Reporting and Accounting*, Vol. 23 No. 5, pp. 1990–2006, DOI:
-  10.1108/JFRA-06-2022-0237 — not currently on the CV; worth adding
+  10.1108/JFRA-06-2022-0237
 
 ## What to prioritize when scoring job fit
 
