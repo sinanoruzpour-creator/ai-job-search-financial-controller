@@ -8,11 +8,12 @@ framework_version: 1.0.0
 <!-- After running /setup, all sections will be filled with your actual information -->
 
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
+- **Name:** Sina M. Norouzpour (used professionally); legal name on official
+  documents/certificates is Mohammadmahdi Norouzpour
+- **Location:** Yerevan, Armenia (previously Dubai, UAE)
+- **Phone:** +79522216474, +971554722043, +374
+- **Email:** sina.noruzpour@gmail.com, sina.noruzpour@yandex.ru
+- **LinkedIn:** https://www.linkedin.com/in/sina-norouzpour/
 - **GitHub:** [YOUR_GITHUB_URL]
 - **Languages:** [YOUR_LANGUAGES with proficiency levels]
 - **Status:** [YOUR_EMPLOYMENT_STATUS]
