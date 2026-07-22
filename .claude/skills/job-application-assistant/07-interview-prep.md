@@ -1,113 +1,99 @@
----
-framework_version: 1.0.0
----
+# 07 — Interview Prep (STAR examples)
 
-# Interview Preparation Guide
+> Now filled in with verified numbers from your CV and reference letters. A couple
+> of Result fields still need your color commentary (marked [TODO]) since the
+> documents confirm the outcome but not every detail of how you got there.
 
-<!-- SETUP: STAR examples are personalized by running /setup based on your actual experience -->
+## 1. Running IFRS consolidation and a $2B+ trading budget (Novatek)
 
-## STAR Format
+- **Situation:** Financial Controller for a Novatek-affiliated oil & gas trading
+  company in the UAE, May 2024 – April 2026, across a group of up to 5 legal entities
+- **Task:** Own monthly/quarterly IFRS close, management reporting, budgeting, and
+  variance analysis for a ~$2B+ annual budget
+- **Action:** Built driver-based variance analysis (price, volume, logistics,
+  margin) and automated reporting using Excel/Power Query models; also owned cash
+  flow control across ~170 monthly operations
+- **Result:** Cut report preparation time by 30–40% through automation; supported
+  clean internal and external audit cycles. [TODO: any audit findings, error rates,
+  or specific process wins worth naming]
 
-Structure answers as: **Situation** (context), **Task** (your responsibility), **Action** (what you did), **Result** (outcome).
+## 2. Building financial models that unlocked investor funding (Yaizy)
 
-Keep answers to 1-2 minutes. Be specific. End with what you learned or would do differently.
+- **Situation:** Finance Specialist for Yaizy, an EdTech startup, remote, Aug 2021 – Oct 2022
+- **Task:** Process consolidated group reporting (UK/US/Russia, 1,500+ transactions)
+  and support an investor funding round
+- **Action:** Built a financial model and valuation report for investors
+- **Result:** Model directly helped secure **$300,000+** in additional funding;
+  later re-engaged (Aug 2023 – Sept 2024) specifically to prepare US/UK tax filings
+  for FY2022–2023, showing the client trusted you beyond the initial engagement
 
-## Ready-Made STAR Examples
+## 3. Standing up ERP infrastructure from scratch (Smartcat)
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+- **Situation:** Engaged as Financial Reporting Consultant, Feb – Sept 2024, remote
+- **Task:** Deploy cloud-based accounting infrastructure and consolidated
+  reporting for an international group
+- **Action:** Designed, configured, and deployed Oracle NetSuite end to end;
+  structured the consolidated reporting workflow
+- **Result:** Delivered within a "challenging timeframe" per the employer
+  reference, giving leadership "enhanced visibility and structural reporting
+  integrity." [TODO: timeframe specifics, team size if any]
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+## 4. Concurrent remote engagements across multiple companies
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+- **Situation:** Between 2021 and 2024, held overlapping remote finance
+  engagements — Yaizy, Nicity, FJX, Readymag, Smartcat, plus a Greeneration
+  project — often two or more running at once
+- **Task:** Deliver reliably across multiple clients with different reporting
+  cadences and time zones
+- **Action:** Proactively aligned and clarified with each employer about the
+  other concurrent engagements upfront. Used non-working hours and weekends to
+  absorb overlapping deadlines. When a genuine conflict came up, requested time
+  off from one employer with an objective, specific reason rather than letting
+  quality slip. Leaned on the fact that most of these were results-based, not
+  fixed-hours roles — as long as deadlines were met, the actual work could happen
+  at any time. Excel fluency meant the work itself (multiple concurrent Excel-based
+  reporting/modeling tasks) wasn't the bottleneck.
+- **Result:** Nicity retained you through a full 2-year forecasting cycle and 50+
+  monthly payroll runs; Yaizy re-engaged you a year after your initial role ended
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+## 5. Turning around a startup's financial operations (Greeneration)
 
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+- **Situation:** Financial Manager, then project-based, at Greeneration (AgriTech),
+  UAE, Feb – Aug 2023
+- **Task:** Build the financial function from scratch — modeling, compliance,
+  logistics cost control, payroll formalization
+- **Action:** Built a long-term financial model, ran pricing sensitivity analysis,
+  compared buy-vs-lease logistics options, implemented KYC tracking and WPS payroll
+- **Result:** Revenue increase of 40–60% (confirm exact figure), logistics costs
+  cut 50%, 8 employees formalized under WPS, 300+ transactions brought into KYC
+  compliance
+- **Note:** worth having a one-line explanation ready for why the role shifted
+  from full-time Financial Manager to project-based (visa-driven) — keep it brief
+  and factual
 
-## Common Tough Questions
+## 6. Running a solo finance function (Diamond Major Chandeliers)
 
-### "Why did you leave [previous company]?"
-> [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
+- **Situation:** Sole owner/manager of a Dubai mainland one-person LLC
+- **Task:** Build the full financial function from scratch — modeling, tax
+  compliance, statutory reserves
+- **Action:** Built a multi-sheet 3-year financial model (IFRS for SMEs, UAE
+  Corporate Tax mechanics, MOA statutory reserves); navigated UAE Corporate Tax
+  registration on EmaraTax
+- **Result:** [TODO — current state of the business, what this demonstrates about
+  running a finance function independently]
 
-### "You don't have [specific skill/experience]."
-> [PREPARE YOUR ANSWER - acknowledge the gap, bridge to adjacent experience, show willingness to learn]
+## General notes
 
-### "Where do you see yourself in 5 years?"
-> [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
-
-### "What's your biggest weakness?"
-> [PREPARE YOUR ANSWER - genuine weakness with concrete mitigation strategy]
-
-### "Why this company specifically?"
-> Customize per company. Must reference: specific projects, company values, market position, or team structure. Never give a generic answer.
-
-## Questions You Should Ask Interviewers
-
-### About the Role
-- "What does a typical week look like in this role?"
-- "What would success look like in the first 6 months?"
-- "What's the biggest challenge the team is facing right now?"
-
-### About the Team
-- "How big is the team, and how do you divide work?"
-- "What does the development/project lifecycle look like, from idea to production?"
-- "How do you onboard new team members?"
-
-### About Tech & Growth
-- "What's your current tech stack for [relevant area]?"
-- "Is there room to grow into more architectural or strategic decisions?"
-- "How does the team stay current with new tools and methods?"
-
-### About Culture (use these to prevent disappointment)
-- "How would you describe the team culture?"
-- "What does professional development look like here?"
-- "Is there flexibility for remote/hybrid work?"
-- "What's the balance between development/new projects and maintenance work?"
-- "How would you describe the leadership style in this team?"
-- "What do people who thrive here have in common?"
-
-## Phone/Video Interview Tips
-- Have STAR examples written out (use this file)
-- Keep a glass of water nearby
-- Smile when speaking (it changes your tone)
-- Ask for clarification if a question is vague
-- It's OK to take 5 seconds to think before answering
-- End with: "Is there anything else you'd like to know about my background?"
-
-## After the Application (Best Practice)
-
-### Follow-Up Etiquette
-- **Don't call to "stand out"** or to learn more about the role post-submission - this risks a negative impression
-- If the employer specified a timeline, respect it and wait
-- If no timeline was given and significant time has passed (2+ weeks), a brief call to ask about status is acceptable
-- If you have genuinely new, relevant information to share, a short follow-up is fine
-
-### Thank-You Notes
-- When you receive any update (interview invitation, rejection, or status update), send a brief thank-you message
-- Express appreciation for their time and the process
-- Keep it short (2-3 sentences)
-
-## Roleplay Guidelines
-When the user asks for interview practice:
-1. Ask which role/company to simulate
-2. Start with easy warm-up questions ("Tell me about yourself")
-3. Progress to role-specific technical questions
-4. Include 1-2 behavioral questions using the competencies from the job posting
-5. End with a tough question or curveball
-6. After each answer, give brief feedback: what worked, what to sharpen
-7. Suggest which STAR example would work best for each question
+- Lead with the $2B+ budget scale and the Oracle NetSuite ERP build — they're your
+  strongest, best-verified differentiators.
+- The IFRS 9 publication (Norouzpour, Nikulin & Downing, 2023, *Journal of
+  Financial Reporting and Accounting*, DOI: 10.1108/JFRA-06-2022-0237) isn't on
+  your current CV — add it; it's a strong differentiator, especially for banking
+  or regulatory-adjacent roles.
+- Be ready to explain the April 2026 departure from Novatek briefly and
+  matter-of-factly (relocation-driven) without over-explaining.
+- Multiple concurrent remote roles is a genuine strength (proves reliability and
+  time management) but interviewers may probe it as a red flag if not framed well.
+  You now have a solid answer for this (see #4) — the key beats to hit are:
+  upfront transparency with employers, results-based flexibility, and Excel
+  fluency as the enabler, not the constraint.
