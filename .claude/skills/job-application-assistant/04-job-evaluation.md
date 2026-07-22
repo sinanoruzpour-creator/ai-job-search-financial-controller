@@ -10,7 +10,7 @@
 ## Role-level scope
 
 Score both of these as in-scope, don't over-index toward one:
-- **Lateral:** Financial Controller (or equivalent title)
+- **Lateral:** Financial Controller, Financial Analyst, Finance Specialist, Financial Reporting, Accounting Manager, Financial Manager
 - **Stretch:** Finance Director, Head of Finance, Senior Finance Manager
 
 ## Skill match — weight these highly
